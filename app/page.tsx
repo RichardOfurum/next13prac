@@ -18,7 +18,7 @@ export default async function Home() {
   return (
     <main>
       <h1>Richard</h1>
-      {JSON.stringify(pokemon)}
+      {/* {JSON.stringify(pokemon)} */}
     </main>
   )
 }
